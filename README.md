@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Adel (@ma159123)
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning flutter,algorithm.
+- 🌱 I’m a flutter developer.
 - 📫 How to reach me https://www.linkedin.com/in/mahmoud-adel-8b031121b
 
 <!---
