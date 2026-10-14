@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Adel (@ma159123)
-- 👀 I’m interested in mobile development.
-- 🌱 I’m a flutter developer.
+- 👀 I’m interested in mobile & .NET Development.
+- 🌱 I’m a flutter developer & .NET developer.
 - 📫 How to reach me https://www.linkedin.com/in/mahmoud-adel-8b031121b
 
 <!---
